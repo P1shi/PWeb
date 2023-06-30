@@ -35,4 +35,5 @@ You need to have python installed on your device (python 3.11 is recommended) & 
 # 🖼️ Pictures
 ![ ](https://cdn.discordapp.com/attachments/1092030523062366238/1123607306463105085/image.png)
 
-                                   This is my first project and I hope you enjoy it ❤️
+`this is my first project and I hope you enjoy it ❤️ `
+
