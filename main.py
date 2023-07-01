@@ -28,7 +28,7 @@ while True:
 ╭—————————————————————————————————————————————————╮
 |Tool devoloped : P1shi                           |
 |Github         : https://github.com/P1shi        |
-|Discord        : p1shi                           |
+|Discord        : Pishi  ᵁⱽ#1027                  |
 ╰—————————————————————————————————————————————————╯
 """)
     webhook_url = input(R + "[" + B + "#" + R + "] Webhook URL : ")
