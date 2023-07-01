@@ -78,3 +78,4 @@ while True:
     print(R + "[" + B + "!" + R + "] " + " an unknown error occurred\nplease check webhook url or other things.\n Note : remember that webhook url , username , message content and messages per sec are important but webhook profile is optional" )
     time.sleep(3)
     print("\033c")
+
