@@ -37,3 +37,4 @@ You need to have python installed on your device (python 3.11 is recommended) & 
 
 `this is my first project and I hope you enjoy it ❤️ `
 
+
