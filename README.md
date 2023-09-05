@@ -33,7 +33,7 @@ You need to have python installed on your device (python 3.11 is recommended) & 
 4 - Fill the webhook username, content, and messages per sec ✅
 
 # 🖼️ Pictures
-![ ](https://cdn.discordapp.com/attachments/1092030523062366238/1123607306463105085/image.png)
+![ ](https://cdn.discordapp.com/attachments/1148701431122108446/1148705810831126599/image.png)
 
 `this is my first project and I hope you enjoy it ❤️ `
 
