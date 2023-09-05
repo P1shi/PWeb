@@ -12,7 +12,9 @@ A = '\033[34m'
 BB = '\033[36m'
 
 def main():
+    
     if platform.system() == "Windows":
+        os.system("title PWeb - Made by P1shi")
         os.system("cls")
     else:
         os.system("clear")
